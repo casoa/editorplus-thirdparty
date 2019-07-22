@@ -1,0 +1,24 @@
+{
+  "name": "editorplus-thirdparty",
+  "description": "",
+  "version": "2.0.0",
+  "files": [
+    "codemirror",
+    "SyntaxHighlighter",
+    "webuploader",
+    "zeroclipboard"
+  ],
+  "homepage": "https://github.com/casoa/editorplus-thirdparty",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/casoa/editorplus-thirdparty.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/casoa/editorplus-thirdparty/issues"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
